@@ -18,3 +18,12 @@
 
 
 # CIDR
+![CIDR](image/CIDR.png)
+
+## POHON cidr
+![pohon](image/pohoncidr.png)
+
+
+kendala
+- penentuan pohon cidr
+- subnetting cidr
