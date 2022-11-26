@@ -28,3 +28,4 @@
 kendala
 - penentuan pohon cidr
 - subnetting cidr
+- pengerjaan satu orang
