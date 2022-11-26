@@ -21,7 +21,7 @@
 ![CIDR](image/CIDR.png)
 
 ## POHON cidr
-![pohon](image/pohoncidr.png)
+
 
 
 kendala
